@@ -1,0 +1,3 @@
+[submodule "yyjson-sys/src/yyjson"]
+	path = yyjson-sys/src/yyjson
+	url = https://github.com/ibireme/yyjson
